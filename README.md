@@ -1,23 +1,34 @@
- <svg width="200" height="200" viewPort="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-
-  <g class="overwatch-logo" transform="translate(50, 50)">
-    <path id="path3961" d="M49.5,0C38.3,0.1,27.3,4,18.7,11l9.4,11c8-6.3,18.7-8.9,28.7-6.9c5.5,1.1,10.7,3.5,15.1,6.9
-	l9.4-11C72.4,3.8,61-0.2,49.5,0z"/>
-    <path id="path4052" d="M15.6,13.7C5.7,23.1-0.2,36.6,0,50.4c0,14.2,6.5,28.2,17.3,37.4c10,8.7,23.5,13.2,36.7,12
-	c14.3-1.1,27.9-8.7,36.3-20.4c8.2-11.1,11.4-25.6,8.7-39.1c-2-10.3-7.4-19.9-15.1-27.1l-9.4,11c7.6,7.2,11.8,17.8,11,28.2
-	c-0.3,5.2-1.8,10.3-4.4,14.8L61.8,48.7l-9.7-20.9l0,31.7l19.4,18.8c-8.7,6.7-20.6,9-31.1,6c-4.3-1.2-8.4-3.2-11.9-5.9l19.6-18.9
-	c0-10.3,0.1-21.4,0-31.7l-9.7,21L19,67.4c-5.9-10.3-6.1-23.7-0.4-34.2c1.8-3.3,4.1-6.4,6.9-9l-9.4-11C15.9,13.4,15.8,13.6,15.6,13.7
-	z"/>
-  </g>
-  
-  <circle class="gold-dark-ring spin-clockwise" fill="none" stroke="none" cx="100" cy="100" r="60" stroke-width="7.5"></circle>
-<circle id="gold-ring-1" class="gold-ring" fill="none" stroke="none" cx="100" cy="100" r="60" stroke-width="7.5"></circle>
-<circle id="gold-ring-2" class="gold-ring" fill="none" stroke="none" cx="100" cy="100" r="60" stroke-width="7.5"></circle>
-<circle id="gold-ring-3" class="gold-ring" fill="none" stroke="none" cx="100" cy="100" r="60" stroke-width="7.5"></circle> 
-  
-<circle id="gray-ring-1" class="gray-ring" fill="none" stroke="none" cx="100" cy="100" r="75" stroke-width="7.5"></circle>
-<circle id="gray-ring-2" class="gray-ring" fill="none" stroke="none" cx="100" cy="100" r="75" stroke-width="7.5"></circle>
-   <circle id="gray-ring-3" class="gray-ring" fill="none" stroke="none" cx="100" cy="100" r="75" stroke-width="7.5"></circle>
-    <circle id="gray-ring-4" class="gray-ring" fill="none" stroke="none" cx="100" cy="100" r="75" stroke-width="7.5"></circle>
-  
-  </svg>
+<div class="container wrapper">
+<div class="row">
+  <div class="col-md-12">
+    <div class="svg">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg  viewBox="0 0 1499 1537" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="ov-genji" sketch:type="MSLayerGroup" transform="translate(160.000000, 73.000000)">
+                <g id="Layer_1" sketch:type="MSShapeGroup">
+                    <circle class="genji-circle" id="Oval-1"   cx="589.5" cy="589.5" r="589.5"></circle>
+                    <g id="Group" transform="translate(298.000000, 225.000000)">
+                        <path class="genji" d="M292,35.9 L421.7,185.4 L466.7,149.4 L547.2,217.4 L583.2,32.9 L500.7,142.4 L491.3,94.1 C489.7,85.8 484.1,78.8 476.4,75.4 L319.3,5.9 C301.9,-1.8 282.2,-1.8 264.8,5.9 L107.7,75.4 C100,78.8 94.4,85.8 92.8,94.1 L83.4,142.4 L0.9,32.9 L36.9,217.4 L117.4,149.4 L162.4,185.4 L292,35.9 L292,35.9 Z" id="Shape" fill="#C9B7A4"></path>
+                        <path class="genji" d="M292,490.5 L444.4,377.2 L512.4,302.5 L553.8,368.5 L561.8,349.8 L540.4,234.8 L467.3,176.6 L426.1,209.2 L420.6,197.3 L292,47.9 L162.2,198.7 L157.9,209.2 L116.7,176.6 L43.6,234.8 L22.2,349.8 L30.2,368.5 L71.6,302.5 L139.6,377.2 L292,490.5 Z" id="Shape" fill="#C0A78E"></path>
+                        <path class="genji" d="M292,721.8 L446.1,602.5 L483.1,484.5 L516.1,484.5 L539.1,405.5 L509.1,344.5 L451,401.5 C447.8,404.8 445.5,408.8 444.2,413.2 L437.6,438.5 L292,536.5 L146.4,438.5 L139.8,413.2 C138.6,408.8 136.2,404.8 133,401.5 L74.9,344.5 L44.9,405.5 L67.9,484.5 L100.9,484.5 L137.9,602.5 L292,721.8 L292,721.8 Z" id="Shape" fill="#CAB49C"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+   </div>
+  </div>
+  </div>
+  <div class="row">
+  <div class="col-md-12">
+    <h2 class="text-center"> Genji is with you </h2>
+    </div>
+  </div>
+</div>
